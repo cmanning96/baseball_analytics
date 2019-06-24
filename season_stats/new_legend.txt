@@ -1,0 +1,161 @@
+0.  Date in format 'yyyymmdd' 
+1.  A character in ['0', 1', '2', '3', 'A', 'B'] indicating double header status
+2.  Day of the week
+3.  Visiting team initials
+4.  Visiting team league
+5.  Visiting team game number
+6.  Home team initials
+7.  Home team league
+8.  Home team game number
+9.  Visiting team score
+10. Home team score
+11. Number of outs that occured in the game
+12. Day/night indicator
+13. Completion information
+14. Forfeit information
+15. Protest information
+16. Park ID
+17. Attendance
+18. Time of game in minutes
+19. Visiting team line score, ie '000103012'
+20. Home team line score
+21. Visiting team at-bats
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
+31. 
+32. 
+33. 
+34. 
+35. 
+36. 
+37. 
+38. 
+39. 
+40. 
+41. 
+42. 
+43. 
+44. 
+45. 
+46. 
+47. 
+48. 
+49. 
+50. 
+51. 
+52. 
+53. 
+54. 
+55. 
+56. 
+57. 
+58. 
+59. 
+60. 
+61. 
+62. 
+63. 
+64. 
+65. 
+66. 
+67. 
+68. 
+69. 
+70. 
+71. 
+72. 
+73. 
+74. 
+75. 
+76. 
+77. 
+78. 
+79. 
+80. 
+81. 
+82. 
+83. 
+84. 
+85. 
+86. 
+87. 
+88. 
+89. 
+90. 
+91. 
+92. 
+93. 
+94. 
+95. 
+96. 
+97. 
+98. 
+99. 
+100. 
+101. 
+102. 
+103. 
+104. 
+105. 
+106. 
+107. 
+108. 
+109. 
+110. 
+111. 
+112. 
+113. 
+114. 
+115. 
+116. 
+117. 
+118. 
+119. 
+120. 
+121. 
+122. 
+123. 
+124. 
+125. 
+126. 
+127. 
+128. 
+129. 
+130. 
+131. 
+132. 
+133. 
+134. 
+135. 
+136. 
+137. 
+138. 
+139. 
+140. 
+141. 
+142. 
+143. 
+144. 
+145. 
+146. 
+147. 
+148. 
+149. 
+150. 
+151. 
+152. 
+153. 
+154. 
+155. 
+156. 
+157. 
+158. 
+159. 
+160.
