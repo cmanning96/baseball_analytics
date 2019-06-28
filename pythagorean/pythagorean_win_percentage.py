@@ -22,7 +22,7 @@ def get_projected_wins(runs_scored, runs_allowed):
 
 def get_all_stats():
   all_stats = []
-  for season in list(range(1989, 2018)):
+  for season in list(range(1989, 2019)):
     stats = season_stats(season)
     for team in list(stats.keys()):
       scored, allowed, wins = stats[team]
